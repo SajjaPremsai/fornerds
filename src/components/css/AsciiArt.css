@@ -1,0 +1,42 @@
+.ascii-art-container {
+  font-size: 28px;
+}
+
+.inputbox-container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.ascii-art-container {
+  text-align: left;
+  padding: 1rem;
+  font-size: 20px;
+}
+
+.asciiart-welcome {
+  margin-top: 1rem;
+  color: #00ff00;
+  font-size: 1rem;
+}
+
+.asciiart-meta {
+  margin-top: 0.5rem;
+  color: #00ff00;
+  font-size: 0.9rem;
+}
+
+.asciiart-repolink {
+  color: #00ff00;
+  text-decoration: dotted underline;
+}
+
+.asciiart-repolink:focus{
+  text-decoration: underline;
+}
+
+.asciiart-meta {
+  margin-top: 0.5rem;
+  color: #00ff00;
+  font-size: 0.9rem;
+}
