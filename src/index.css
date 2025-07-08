@@ -17,29 +17,3 @@ body {
 .terminal {
   padding: 1rem;
 }
-
-.ascii-art-container {
-  font-size: 28px;
-}
-
-.inputbox-container {
-  display: flex;
-  flex-direction: row;
-  align-items: center;
-}
-
-.inputbox {
-  cursor: text;
-  background-color: #000;
-  border: none;
-  color: #00ff00;
-  font-family: 'Courier New', Courier, monospace;
-  font-size: 1rem;
-  outline: none;
-  width: 100%;
-}
-
-.inputbox:focus {
-  border: none;
-  outline: none;
-}
